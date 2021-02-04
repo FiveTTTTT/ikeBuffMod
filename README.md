@@ -12,7 +12,6 @@ Down Smash changes:
 - the 2nd hit comes out on 23
 - FAF 51
 - Sakurai angle 
-- "funny" **tiny** hitbox on frame 7 -> 9
 
 Up Smash changes:
 - the hit comes out on 13
@@ -42,6 +41,14 @@ Back Air changes:
 - KBG 107
 - BKB 48
 - bigger hitbox to reach small opponents
+
+Neutral Air changes:
+- the hit comes out on 6
+- damage 15
+- FAF 46
+- KBG 105(back to 7.0.0)
+- BKB 48
+- bigger hitbox on the hilt
 
 
 
