@@ -4,7 +4,7 @@ Because some moves are faster their 1st frames do not connect so I had to increa
 
 Forward Smash changes:
 - no sourspot
-- the hit comes out on 20
+- the hit comes out on 22
 - FAF 40
 
 Down Smash changes:
